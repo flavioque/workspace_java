@@ -1,0 +1,7 @@
+
+public class Carro {
+	String marca, modelo,cor;
+	int  ano;
+	double preco;
+
+}
